@@ -1,4 +1,4 @@
-                                                       ![alt text](http://www.sinoiseries.org/lecteurfouT.gif)
+![alt text](http://www.sinoiseries.org/lecteurfouT.gif)
 
 
 - ### Scalabilité: 
