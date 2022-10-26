@@ -17,4 +17,7 @@
    > *Un prototype est un exemple qui sert de base à de futurs modèles. Le prototypage donne aux concepteurs la possibilité de rechercher de nouvelles alternatives et de tester la conception existante pour confirmer la fonctionnalité d'un produit avant la production.*
     
 - ## MVP:
-    > *Most Valuable Product est une version fonctionnelle et élémentaire d'un produit, Le MVP permet d'obtenir des retour utilisateurs. Le but est de tester des hypothèses et d’apprendre des clients en minimisant la prise de risques.*    
+    > *Most Valuable Product est une version fonctionnelle et élémentaire d'un produit, Le MVP permet d'obtenir des retour utilisateurs. Le but est de tester des hypothèses et d’apprendre des clients en minimisant la prise de risques.*   
+    
+- ## Material design:
+   > *Le Material design est un langage visuel et interactif créé par Google. Mais c'est aussi un guide pour concevoir une interface graphique *
