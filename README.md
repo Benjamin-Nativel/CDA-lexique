@@ -21,3 +21,9 @@
     
 - ## Material design:
    > *Le Material design est un langage visuel et interactif créé par Google. Mais c'est aussi un guide pour concevoir une interface graphique *
+
+- ## Dictonnaire de données:
+   > *Un dictionnaire des données est une collection de métadonnées ou de données de référence nécessaire à la conception d'une base de données relationnelle. Il décrit des données aussi importantes que les clients, les nomenclatures de produits et de services, les annuaires,*
+   
+- ## MCD:
+   > *Le MCD a pour but d'écrire de façon formelle les données qui seront utilisées par le système d'information. Il s'agit donc d'une représentation des données, facilement compréhensible, permettant de décrire le système d'information à l'aide d'entités.*
