@@ -26,4 +26,7 @@
    > *Un dictionnaire des données est une collection de métadonnées ou de données de référence nécessaire à la conception d'une base de données relationnelle. Il décrit des données aussi importantes que les clients, les nomenclatures de produits et de services, les annuaires,*
    
 - ## MCD:
-   > *Le MCD a pour but d'écrire de façon formelle les données qui seront utilisées par le système d'information. Il s'agit donc d'une représentation des données, facilement compréhensible, permettant de décrire le système d'information à l'aide d'entités.*
+   > *Un modèle conceptuel est une représentation d'un système. Il se compose de concepts utilisés pour aider les gens à connaître, comprendre ou simuler un sujet représenté par le modèle.*
+   
+- ## JSON:
+   > *JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript. Il permet de représenter de l’information structurée comme le XML par exemple.*   
