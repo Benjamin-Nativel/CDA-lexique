@@ -30,3 +30,10 @@
    
 - ## JSON:
    > *JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript. Il permet de représenter de l’information structurée comme le XML par exemple.*   
+
+- ## Design partern:
+   > *Il décrit un arrangement récurrent de rôles et d'actions joués par des modules d'un logiciel, et le nom du patron sert de vocabulaire commun entre le concepteur et le programmeur.*
+- ## MVC:
+     > * MVC est un motif d'architecture logicielle destiné aux interfaces graphiques.* 
+- ## SGBD:
+   > *Un système de gestion de base de données (SGBD) est le logiciel qui permet à un ordinateur de stocker, récupérer, ajouter, supprimer et modifier des données. Un SGBD gère tous les aspects primaires d'une base de données*
