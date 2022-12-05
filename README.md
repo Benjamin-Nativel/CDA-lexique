@@ -41,4 +41,5 @@
 - ## VueJS:
    > *C'est un framework open-source tilisé pour construire des interfaces utilisateur et des applications web monopages. Vue a été créé par Evan You et est maintenu par lui et le reste des membres actifs de l'équipe principale travaillant sur le projet et son écosystème
    En concurence avec angular, ReactJS...
-*
+   *
+
