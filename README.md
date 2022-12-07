@@ -47,7 +47,7 @@
    > *En programmation informatique, un framework est un ensemble cohérent de composants logiciels structurels qui sert à créer les fondations ainsi que les grandes lignes de tout ou partie d'un logiciel*
 
 - ## Kanban:
-   >*Kanban est une méthode de travail qui s’inspire de l’approche Lean centrée sur l'amélioration continue des processus de production. Elle est conceptualisée en 1950 par l'ingénieur industriel japonais Taiichi Ōno pour le compte de Toyota dans le but d'optimiser la fabrication du constructeur automobile. Elle se fonde sur un système à "flux tirés", tenant compte des demandes des consommateurs, et non à flux poussés.Kanban consiste ainsi à s'adapter en permanence au besoin du client.*
+   >*Kanban est une méthode de travail qui s’inspire de l’approche Lean centrée sur l'amélioration continue des processus de production. Elle se fonde sur un système à "flux tirés", tenant compte des demandes des consommateurs, et non à flux poussés.Kanban consiste ainsi à s'adapter en permanence au besoin du client.*
 
 - ## Merise:
    > *Merise est une méthode d'analyse, de conception et de gestion de projet informatique.  Cette méthode reste adaptée pour la gestion des projets internes aux organisations, se limitant à un domaine précis.*
