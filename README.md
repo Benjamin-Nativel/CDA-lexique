@@ -55,4 +55,11 @@
 - ## Formes normales:
    > *Dans une base de données relationnelle, une forme normale désigne un type de relation particulier entre les entités. La normalisation consiste à restructurer une base de données pour respecter certaines formes normales, afin d'éviter la redondance des données et d'assurer l'intégrité des données.*   
    
-
+- ## ORM:
+   > *Un mapping objet-relationnel est un type de programme informatique qui se place en interface entre un programme applicatif et une base de données relationnelle pour simuler une base de données orientée objet.*
+   
+- ## Formes normales:
+   > *Un caractère d'échappement, en informatique et en télécommunications, est un caractère qui déclenche une interprétation alternative du ou des caractères qui le suivent. Le caractère d'échappement peut : retirer sa valeur spéciale à un caractère.*
+   
+- ## Injection SQL:
+   > * groupe de méthodes d'exploitation de faille de sécurité d'une application interagissant avec une base de données.*
