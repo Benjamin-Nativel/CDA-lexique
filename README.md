@@ -63,3 +63,9 @@
    
 - ## Injection SQL:
    > * groupe de méthodes d'exploitation de faille de sécurité d'une application interagissant avec une base de données.*
+
+- ## Les tris en Programmation:
+   >* algorithme qui permet d'organiser une collection d'objets selon une relation d'ordre déterminée. Les objets à trier sont des éléments d'un ensemble muni d'un ordre total.*
+   
+- ## Structure de données
+   >*En informatique, une structure de données est une manière d'organiser les données pour les traiter plus facilement.*
